@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+#weight-guide {
+  text-align: center;
+  margin-left: 60px;
+}
+form {
+  text-align: center;
+}
+button {
+  border: solid black 2px;
+  padding-right: 10px;
+  margin-left: 170px;
+  background-color: rgb(204, 108, 191);
+  margin-top: 10px;
+  margin-right: 100000px;
+  text-align: center;
+}
+button {
+  padding-left: 20px;
+  margin-right: 80px;
+}
+#results {
+  font-size: larger;
+  margin-left: 90px;
+  margin-top: 20px;
+  color: rgb(10, 1, 15);
+}

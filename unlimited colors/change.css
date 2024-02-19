@@ -1,0 +1,10 @@
+.head {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aliceblue;
+}
+body {
+  background-color: #414141;
+}
+button {
+  margin-left: 10px;
+}
